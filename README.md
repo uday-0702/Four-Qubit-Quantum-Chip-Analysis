@@ -1,5 +1,5 @@
 # Four-Qubit-Quantum-Chip-Analysis
-I designed a 4-qubit superconducting chip using Qiskit Metal and performed analyses including Energy Participation Ratio, Capacitive, and S-parameter assessments. Using Ansys HFSS and Q3D Extractor, I optimized the chip’s performance, analyzing energy distribution, capacitance, and signal behavior for improved quantum computing efficiency.
+I designed a 4-qubit superconducting chip using Qiskit Metal and performed analyses including Energy Participation Ratio, Capacitive, and S-parameter assessments. Using Ansys HFSS and Q3D Extractor, I optimized the chip’s performance, analyzing energy distribution, capacitance, and signal behavior for improved quantum computing efficiency. Refer full analysis report [here](https://drive.google.com/file/d/1iC7K5EtgDdNGlkGu1793NdaW-7l0qSVK/view?usp=drive_link)
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/db3d8542-df79-4ef8-9ecb-7ff4ed7de308" alt="Flip Chip" width="350" style="border: 2px solid #ddd; border-radius: 8px; margin-right: 15px;">
