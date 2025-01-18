@@ -3,7 +3,7 @@ I designed a 4-qubit superconducting chip using Qiskit Metal and performed analy
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/db3d8542-df79-4ef8-9ecb-7ff4ed7de308" alt="Flip Chip" width="250" style="border: 2px solid #ddd; border-radius: 8px; margin-right: 15px;">
-  <img src="https://github.com/user-attachments/assets/e94a44a7-3976-4341-bf10-1eba2acde406" alt="Flip Chip" width="265" style="border: 2px solid #ddd; border-radius: 8px;">
+<!--   <img src="https://github.com/user-attachments/assets/e94a44a7-3976-4341-bf10-1eba2acde406" alt="Flip Chip" width="265" style="border: 2px solid #ddd; border-radius: 8px;"> -->
 </div>
 
 <p style="font-size: 16px; color: #555; line-height: 1.6; text-align: justify;">
